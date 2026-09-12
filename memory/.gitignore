@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.npy
+.vector_meta.json
+conversations.db
+*.db
+*.db-journal
+dream_data/
+.vector_index.*
